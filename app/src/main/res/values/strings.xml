@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Blundersnatch</string>
+    <string name="welcometext">welcometext</string>
+    <string name="storytxt">storytxt</string>
+    <string name="beckettname">Beckett:</string>
+    <string name="selldrugsend">selldrugsend</string>
+    <string name="developgameend">developgameend</string>
+    <string name="developedandpub">developedandpub</string>
+    <string name="getsregularjob">getsregularjob</string>
+    <string name="owncompanyend">owncompanyend</string>
+    <string name="robbingbanks">robbingbanks</string>
+    <string name="banneradunitid">ca-app-pub-3609953011019731/5644270235</string>
+</resources>
